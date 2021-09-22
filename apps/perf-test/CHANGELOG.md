@@ -1,8 +1,18 @@
 # Change Log - perf-test
 
-This log was last generated on Tue, 21 Sep 2021 07:42:34 GMT and should not be manually modified.
+This log was last generated on Wed, 22 Sep 2021 09:36:48 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.0
+
+Wed, 22 Sep 2021 09:36:48 GMT
+
+### Patches
+
+- Bump @fluentui/react-avatar to v9.0.0-alpha.84
+- Bump @fluentui/react-button to v9.0.0-alpha.90
+- Bump @fluentui/react-provider to v9.0.0-alpha.81
 
 ## [1.0.0](https://github.com/microsoft/fluentui/tree/perf-test_v1.0.0)
 

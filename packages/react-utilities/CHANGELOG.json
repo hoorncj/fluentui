@@ -2,6 +2,21 @@
   "name": "@fluentui/react-utilities",
   "entries": [
     {
+      "date": "Wed, 22 Sep 2021 09:36:48 GMT",
+      "tag": "@fluentui/react-utilities_v9.0.0-alpha.50",
+      "version": "9.0.0-alpha.50",
+      "comments": {
+        "prerelease": [
+          {
+            "author": "gcox@microsoft.com",
+            "package": "@fluentui/react-utilities",
+            "comment": "Moved from interfaces to types per RFC",
+            "commit": "2add6b01118462f914e080ed63f335e441bf6f53"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 20 Sep 2021 07:36:26 GMT",
       "tag": "@fluentui/react-utilities_v9.0.0-alpha.49",
       "version": "9.0.0-alpha.49",

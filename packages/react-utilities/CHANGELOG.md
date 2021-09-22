@@ -1,8 +1,16 @@
 # Change Log - @fluentui/react-utilities
 
-This log was last generated on Fri, 17 Sep 2021 07:35:26 GMT and should not be manually modified.
+This log was last generated on Wed, 22 Sep 2021 09:36:48 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-alpha.50
+
+Wed, 22 Sep 2021 09:36:48 GMT
+
+### Changes
+
+- Moved from interfaces to types per RFC (gcox@microsoft.com)
 
 ## [9.0.0-alpha.49](https://github.com/microsoft/fluentui/tree/@fluentui/react-utilities_v9.0.0-alpha.49)
 

@@ -1,8 +1,32 @@
 # Change Log - @fluentui/react-components
 
-This log was last generated on Tue, 21 Sep 2021 07:42:34 GMT and should not be manually modified.
+This log was last generated on Wed, 22 Sep 2021 09:36:48 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-alpha.112
+
+Wed, 22 Sep 2021 09:36:48 GMT
+
+### Changes
+
+- `@fluentui/react-avatar`
+  - update react-icons dependency (ololubek@microsoft.com)
+- `@fluentui/react-badge`
+  - refactor(Badge): Remove `mergeProps` and migrate to simple slots (lingfangao@hotmail.com)
+- `@fluentui/react-button`
+  - update react-icons dependency (ololubek@microsoft.com)
+  - SplitButton: Adding missing verticalAlign=middle style. (Humberto.Morimoto@microsoft.com)
+- `@fluentui/react-menu`
+  - update react-icons dependency (ololubek@microsoft.com)
+- `@fluentui/react-slider`
+  - Cleaning up the Slider utils folder. (czearing@outlook.com)
+- `@fluentui/react-switch`
+  - Adding switch role to the hidden input element. (czearing@outlook.com)
+- `@fluentui/react-text`
+  - Migrate to simplified prop merging (andredias@microsoft.com)
+- `@fluentui/react-utilities`
+  - Moved from interfaces to types per RFC (gcox@microsoft.com)
 
 ## [9.0.0-alpha.111](https://github.com/microsoft/fluentui/tree/@fluentui/react-components_v9.0.0-alpha.111)
 

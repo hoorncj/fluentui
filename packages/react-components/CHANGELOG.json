@@ -2,6 +2,83 @@
   "name": "@fluentui/react-components",
   "entries": [
     {
+      "date": "Wed, 22 Sep 2021 09:36:48 GMT",
+      "tag": "@fluentui/react-components_v9.0.0-alpha.112",
+      "version": "9.0.0-alpha.112",
+      "comments": {
+        "prerelease": [
+          {
+            "author": "ololubek@microsoft.com",
+            "package": "@fluentui/react-avatar",
+            "comment": "update react-icons dependency",
+            "commit": "2add6b01118462f914e080ed63f335e441bf6f53"
+          },
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-badge",
+            "comment": "refactor(Badge): Remove `mergeProps` and migrate to simple slots",
+            "commit": "2add6b01118462f914e080ed63f335e441bf6f53"
+          },
+          {
+            "author": "ololubek@microsoft.com",
+            "package": "@fluentui/react-button",
+            "comment": "update react-icons dependency",
+            "commit": "2add6b01118462f914e080ed63f335e441bf6f53"
+          },
+          {
+            "author": "Humberto.Morimoto@microsoft.com",
+            "package": "@fluentui/react-button",
+            "comment": "SplitButton: Adding missing verticalAlign=middle style.",
+            "commit": "2add6b01118462f914e080ed63f335e441bf6f53"
+          },
+          {
+            "author": "ololubek@microsoft.com",
+            "package": "@fluentui/react-menu",
+            "comment": "update react-icons dependency",
+            "commit": "2add6b01118462f914e080ed63f335e441bf6f53"
+          },
+          {
+            "author": "czearing@outlook.com",
+            "package": "@fluentui/react-slider",
+            "comment": "Cleaning up the Slider utils folder.",
+            "commit": "2add6b01118462f914e080ed63f335e441bf6f53"
+          },
+          {
+            "author": "czearing@outlook.com",
+            "package": "@fluentui/react-switch",
+            "comment": "Adding switch role to the hidden input element.",
+            "commit": "2add6b01118462f914e080ed63f335e441bf6f53"
+          },
+          {
+            "author": "andredias@microsoft.com",
+            "package": "@fluentui/react-text",
+            "comment": "Migrate to simplified prop merging",
+            "commit": "2add6b01118462f914e080ed63f335e441bf6f53"
+          },
+          {
+            "author": "gcox@microsoft.com",
+            "package": "@fluentui/react-utilities",
+            "comment": "Moved from interfaces to types per RFC",
+            "commit": "2add6b01118462f914e080ed63f335e441bf6f53"
+          }
+        ],
+        "none": [
+          {
+            "author": "lingfangao@hotmail.com",
+            "package": "@fluentui/react-avatar",
+            "comment": "chore(Avatar): typing workaround for presence badge",
+            "commit": "2add6b01118462f914e080ed63f335e441bf6f53"
+          },
+          {
+            "author": "czearing@outlook.com",
+            "package": "@fluentui/react-slider",
+            "comment": "Adding RangedSlider spec.",
+            "commit": "2add6b01118462f914e080ed63f335e441bf6f53"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 21 Sep 2021 11:58:40 GMT",
       "tag": "@fluentui/react-components_v9.0.0-alpha.111",
       "version": "9.0.0-alpha.111",

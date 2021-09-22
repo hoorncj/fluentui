@@ -1,8 +1,21 @@
 # Change Log - @fluentui/react-checkbox
 
-This log was last generated on Tue, 21 Sep 2021 07:42:34 GMT and should not be manually modified.
+This log was last generated on Wed, 22 Sep 2021 09:36:48 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.0.0-alpha.39
+
+Wed, 22 Sep 2021 09:36:48 GMT
+
+### Changes
+
+- Bump @fluentui/react-make-styles to v9.0.0-alpha.70
+- Bump @fluentui/react-utilities to v9.0.0-alpha.50
+- Bump @fluentui/react-label to v9.0.0-alpha.43
+- Bump @fluentui/react-tabster to v9.0.0-alpha.64
+- Bump @fluentui/jest-serializer-make-styles to v9.0.0-alpha.45
+- Bump @fluentui/react-conformance-make-styles to v9.0.0-alpha.14
 
 ## [9.0.0-alpha.38](https://github.com/microsoft/fluentui/tree/@fluentui/react-checkbox_v9.0.0-alpha.38)
 

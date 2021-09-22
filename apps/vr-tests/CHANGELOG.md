@@ -1,8 +1,30 @@
 # Change Log - vr-tests
 
-This log was last generated on Tue, 21 Sep 2021 07:42:34 GMT and should not be manually modified.
+This log was last generated on Wed, 22 Sep 2021 09:36:48 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.0.0
+
+Wed, 22 Sep 2021 09:36:48 GMT
+
+### Patches
+
+- Bump @fluentui/babel-make-styles to v9.0.0-alpha.52
+- Bump @fluentui/react-accordion to v9.0.0-alpha.80
+- Bump @fluentui/react-avatar to v9.0.0-alpha.84
+- Bump @fluentui/react-button to v9.0.0-alpha.90
+- Bump @fluentui/react-card to v9.0.0-alpha.6
+- Bump @fluentui/react-divider to v9.0.0-alpha.71
+- Bump @fluentui/react-image to v9.0.0-alpha.82
+- Bump @fluentui/react-label to v9.0.0-alpha.43
+- Bump @fluentui/react-link to v9.0.0-alpha.85
+- Bump @fluentui/react-make-styles to v9.0.0-alpha.70
+- Bump @fluentui/react-menu to v9.0.0-alpha.81
+- Bump @fluentui/react-provider to v9.0.0-alpha.81
+- Bump @fluentui/react-slider to v9.0.0-alpha.9
+- Bump @fluentui/react-switch to v9.0.0-alpha.8
+- Bump @fluentui/react-text to v9.0.0-alpha.19
 
 ## [1.0.0](https://github.com/microsoft/fluentui/tree/vr-tests_v1.0.0)
 
